@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app_2</string>
+    <string name="action_settings">About application</string>
+    <string name="title_activity_about_app">About application</string>
+</resources>
